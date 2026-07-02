@@ -5,19 +5,15 @@
 
 Senior Backend Engineer
 
-Building reliable backend systems with Python.
+Building software across public institutions, cybersecurity, media and the cultural sector.
 
 ## Focus
 
 - Python
-- Django
-- FastAPI
+- Backend Engineering
 - Software Architecture
-- Distributed Systems
-
-## Experience
-
-Senior backend engineer with 6+ years of Python experience and 15+ years building web applications, from enterprise platforms to cybersecurity products and creative technology.
+- Product Development
+- Technical guidance for creative and cultural projects
 
 ## Links
 
