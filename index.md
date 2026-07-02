@@ -15,7 +15,7 @@ Building software across public institutions, cybersecurity, media and the cultu
 - Product Development
 - Technical guidance for creative and cultural projects
 
-## Links
+## Find me
 
 - [LinkedIn](https://www.linkedin.com/in/matthieulevet/)
 - [GitHub](https://github.com/mlevet)
