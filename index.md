@@ -5,7 +5,7 @@
 
 Senior Backend Engineer
 
-Building software across public institutions, cybersecurity, media and the cultural sector.
+Building software for public institutions, cybersecurity, media and the cultural sector.
 
 ## Focus
 
